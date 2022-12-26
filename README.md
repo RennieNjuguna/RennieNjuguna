@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @RennieNjuguna
 - 👀 I’m interested in Web and Application Development 
-- 🌱 I’m currently learning React, C#, and Xamarin (at Moringa and Treehouse)
+- 🌱 I’m currently learning React, Ruby on Rails, C#, and Xamarin (at Moringa and Treehouse)
 
 - 💞️ I have a passion for building intuitive and visually appealing applications that provide a seamless user experience. 
 - 📝 In my previous projects, I have used React JS to build interactive front-end applications, Python for scripting and data analysis, and Xamarin for cross-platform mobile development.
