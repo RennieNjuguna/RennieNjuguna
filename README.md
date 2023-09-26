@@ -2,7 +2,7 @@
 - 👀 I’m a developer in Web and Application Development
 <br>
 
-**My Tech Stack 🌱**
+&nbsp;&nbsp;&nbsp;&nbsp; <ins>**My Tech Stack 🌱**</ins>
 - Frontend: I use React for our web application's user interface, delivering a dynamic and responsive user experience.
 - Backend: Node.js and Python Django power our server-side development, providing versatility and robust functionality.
 - Databases: Our data storage includes MySQL for structured, relational data, and MongoDB for unstructured data, meeting diverse data needs.
