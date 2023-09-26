@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Renny Njuguna
-- 👀 I’m a developer in Web and Application Development
+- 👀 I’m a Web and Application Developer
 <br>
 
 &nbsp;&nbsp;&nbsp;&nbsp; <ins>**My Tech Stack**</ins>🌱
